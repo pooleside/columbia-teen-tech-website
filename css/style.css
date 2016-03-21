@@ -31,3 +31,10 @@ p, ul {
   margin-top: 0;
   line-height: 180%;
 }
+a {
+	text-decoration: none;
+	color: #9C9A9A;
+}
+a:hover {
+	text-decoration: underline;
+}
