@@ -65,3 +65,41 @@ a:hover {
   font-weight: 200;
 	font-size: 22px;
 }
+
+#menu {
+	margin: 0;
+	padding: 0px 20px;
+	list-style: none;
+	letter-spacing: -1px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: lowercase;
+	font-size: 20px;
+	font-weight: normal;
+	color: #C6E973;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu a {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	color: #C6E973;
+}
+
+#menu a:hover {
+	border-radius: 5px;
+	background: #7BA01C;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#menu span {
+	margin: 0px;
+	padding: 0px 20px;
+}
