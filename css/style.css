@@ -65,6 +65,7 @@ a:hover {
 	text-align: center;
 	font-size: 70px;
 	color: #7FA72C;
+  text-shadow: 2px 2px 0 #C6E973;
 }
 
 #front-header p {
